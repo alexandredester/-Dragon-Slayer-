@@ -1,11 +1,11 @@
-# -Dragon-Slayer-
- # langage utiliser :
+# Dragon-Slayer
+# langage utiliser :
 - HTML 
 - CSS
 - JAVASCRIPT
 
  # FONCTIONEMENT DE L'APPLICATION : 
- Jeux du Dragon 
+- Jeux du Dragon 
 
  # TITULAIRE DE L'APPLICATION : 
  - DESTER ALEXANDRE 
